@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>good0</key>
+	<dict>
+		<key>localizedTitle</key>
+		<string>500Coin</string>
+		<key>productIdentifier</key>
+		<string>ddtank_coin_4.99</string>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>GameCurrencyCount</key>
+		<string>500</string>
+	</dict>
+	<key>good1</key>
+	<dict>
+		<key>localizedTitle</key>
+		<string>1000Coin</string>
+		<key>productIdentifier</key>
+		<string>ddtank_coin_9.99</string>
+		<key>price</key>
+		<string>$9.99</string>
+		<key>GameCurrencyCount</key>
+		<string>1000</string>
+	</dict>
+</dict>
+</plist>
